@@ -1,3 +1,5 @@
 Repositório contendo o conteúdo realizado durante aulas sobre React Native.
+
 Neste projeto foi desenvolvido um aplicativo com a API DummyJson para simular uma loja para venda de produtos.
+
 Foi produzido um sistema com login automático, com o usuário e a senha já pré-definidos através da API. Ao logar, o usuário sera direcionado ao menu, com a lista de produtos disponiveis. Ao clicar em um produto, o usuário será levado a tela de detalhes do produto, onde é possivel visualizar imagens do produto, o nome completo, a descrição e o preço, tudo isso com a opção de adicionar o respectivo produto ao carrinho. Na tela de carrinho é possivel visualizar todos os produtos adicionados, onde o usuário podera revisar todas as suas escolhas e contará com a opção de remover os produtos indesejados. Após ficar satisfeito, basta o usuário clicar no botão de realizar pagamento, localiazado na mesma tela de carrinho de compras, para ser redirecionado para a tela de pagamento. Após isso, basta inserir os dados do cartão para conseguir finalizar a compra. Ao finalizar todas as compras, o usuário poderá realizar o logout e aguardar a chegada do(s) produto(s).
